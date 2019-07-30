@@ -1,4 +1,4 @@
-# How To Add An OSRAM Smart+ Plug to HomeKit With Homebridge And The Philips Hue Bridge
+# How To Add An OSRAM Smart+ Plug To HomeKit With Homebridge And The Philips Hue Bridge
 
 1. Plug the OSRAM Smart+ Plug into a power outlet.
 
