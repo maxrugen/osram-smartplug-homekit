@@ -10,4 +10,6 @@
 
 5. In the server's terminal, enter `sudo ph -H X.X.X.X -u ABC outlet -v`, where `X.X.X.X` is the Philip Hue bridge's IP address and ABC is the password created while restarting the Homebridge server with `homebridge-hue` enabled for the first time.
 
-6. In the Home app on your iPhone, change the device type of the OSRAM Smart+ Plug to outlet.
+6. Restart your Homebridge server.
+
+7. In the Home app on your iPhone, change the device type of the OSRAM Smart+ Plug to outlet.
